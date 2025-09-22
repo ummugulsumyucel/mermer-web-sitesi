@@ -29,7 +29,6 @@
 
 ## 📸 Ekran Görüntüleri
 <p align="center">
-  ![Uploading Ekran görüntüsü 2025-09-22 202358.png…]()
 <img width="1919" height="923" alt="Ekran görüntüsü 2025-09-22 202358 - Kopya" src="https://github.com/user-attachments/assets/8348fb01-672b-41f1-9566-1eab291cb41b" />
 <img width="1919" height="937" alt="Ekran görüntüsü 2025-09-22 202410 - Kopya" src="https://github.com/user-attachments/assets/77fcbea9-76fb-4914-b295-9da58046d69f" />
 <img width="1919" height="937" alt="Ekran görüntüsü 2025-09-22 202410 - Kopya" src="https://github.com/user-attachments/assets/7503372e-e957-4feb-9b67-7f17762ef979" />
